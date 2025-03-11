@@ -13,14 +13,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: Rafael Ramaldes Nacif de Oliveira
 - Matricula: 877590
 - Proposta de projeto escolhida: Catálogo de Filmes
-- Breve descrição sobre seu projeto: 
+- Breve descrição sobre seu projeto: Interface de um catalogo de filmes com opção de lista e favoritos.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+
+
